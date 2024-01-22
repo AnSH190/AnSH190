@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ansh Vaswani
 ====================================================================================================================================
 
-Web Developer
+Full Stack Developer
 -------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anshvaswani73@gmail.com](mailto:anshvaswani73@gmail.com)
-* 🧠  I'm learning React js
+* 🧠  I'm learning MERN stack
 * 🤝  I'm open to collaborating on Full Stack Projects
 
 ### Skills
