@@ -21,6 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh190&show_icons=true&locale=en&layout=compact" alt="ansh190" /></p>
 
 <br>
-https://github-stats-alpha.vercel.app/api?username=ansh190&cc=000&tc=fff&ic=fff&bc=000
+<img src="https://github-stats-alpha.vercel.app/api?username=ansh190&cc=000&tc=fff&ic=fff&bc=000">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnSH190&" alt="ansh190" /></p>
