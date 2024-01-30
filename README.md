@@ -10,7 +10,7 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on Full Stack Projects
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?AnSH190=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/AnSH190=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Skills
 
